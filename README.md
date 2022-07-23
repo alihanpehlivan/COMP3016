@@ -1,6 +1,7 @@
 ## OpenGL TTF Renderer Demo
 This project demonstrates how to render True Type Fonts (TTF) with OpenGL.
-Graded 1st (>= 70) class by Dr. Swen Gaudl.
+</br>
+**Graded 1st (>= 70) class by Dr. Swen Gaudl.**
 <img src="https://i.imgur.com/bVisBnX.png" width="700" alt="OpenGL TTF Renderer Demo">
 ## A note about this repository and the Prototype
 My original repository (*Plymouth SOFT: Software Repository of student work*) can be found [here](https://github.com/Plymouth-Comp/2020-comp3016-cw2-alihanpehlivan).
